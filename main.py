@@ -5,7 +5,7 @@ from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 
 # GUI FILE
-from ui_main_cv_1 import Ui_MainWindow
+from ui_main import Ui_MainWindow
 
 # IMPORT FUNCTIONS
 from ui_functions import *
